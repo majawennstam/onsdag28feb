@@ -1,0 +1,9 @@
+.div-contaioner{
+    display: flex;
+    margin: 2rem;
+}
+
+.cBox{
+    width: 2rem;
+    height: 2rem;
+}
